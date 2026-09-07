@@ -9,7 +9,6 @@ Sahar Zamanian and Maria Kihl are affiliated with **Lund University**, and Sara 
 The paper presents a **Systematization of Knowledge (SoK)** of WebAssembly (Wasm) security research based on **135 peer-reviewed studies published since 2017**.
 
 The surveyed literature is systematically analyzed and classified across several dimensions, including:
-
 * Vulnerable WebAssembly components
 * Attack and exploitation techniques
 * Adversarial models
@@ -20,7 +19,6 @@ The surveyed literature is systematically analyzed and classified across several
 The study also examines relationships between these dimensions to provide a broader view of the WebAssembly security landscape.
 
 In addition, the paper identifies several open challenges and research directions, including:
-
 * Memory safety
 * Cross-language security analysis
 * Multi-tenant isolation
@@ -40,7 +38,6 @@ This repository provides the research artifacts used in our Systematization of K
 The dataset contains the information extracted from the selected WebAssembly security studies and was used to categorize and analyze the existing body of research.
 
 The extracted data covers key aspects of WebAssembly security research, including:
-
 * Application domains and use cases
 * Vulnerable components
 * Attack and exploitation techniques
@@ -50,7 +47,6 @@ The extracted data covers key aspects of WebAssembly security research, includin
 * Security frameworks and tools
 
 The dataset also enables cross-analysis of relationships between:
-
 * Vulnerabilities and attack techniques
 * Attacks and WebAssembly components
 * Vulnerabilities and application domains
